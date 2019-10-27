@@ -4,8 +4,10 @@ import numpy as np
 import matplotlib.pyplot as plt
 import json
 
-# 18 Chelsea fc
+# This was my testing ground before I went to Jupyter Notebook
+# It isn't really a complete picture of what I did but it's something so I felt I needed to include it
 
+# 18 Chelsea fc
 # 5  europa league league id
 # 12945 2018/19 europa league season
 # 8  premier league
